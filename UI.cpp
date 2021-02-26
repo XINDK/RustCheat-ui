@@ -17,7 +17,7 @@ if (ImGui::IsItemHovered())
 }
 
 
-void gui_builder0()
+void rustcheat()
 {
 ImGui::SetNextWindowSize({770.f,421.f});
 
